@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fbi/static/css/main.a617e044.chunk.css",
-    "main.js": "/fbi/static/js/main.31533155.chunk.js",
-    "main.js.map": "/fbi/static/js/main.31533155.chunk.js.map",
+    "main.js": "/fbi/static/js/main.2b45cb18.chunk.js",
+    "main.js.map": "/fbi/static/js/main.2b45cb18.chunk.js.map",
     "runtime-main.js": "/fbi/static/js/runtime-main.76a85ee5.js",
     "runtime-main.js.map": "/fbi/static/js/runtime-main.76a85ee5.js.map",
     "static/js/2.c500a38c.chunk.js": "/fbi/static/js/2.c500a38c.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.76a85ee5.js",
     "static/js/2.c500a38c.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.31533155.chunk.js"
+    "static/js/main.2b45cb18.chunk.js"
   ]
 }
